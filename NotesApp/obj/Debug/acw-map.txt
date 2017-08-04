@@ -1,0 +1,20 @@
+NotesApp.AddNote, NotesApp;md5a76975f5ff68ad3578c90a53505454f6.AddNote
+NotesApp.AddNote, NotesApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a76975f5ff68ad3578c90a53505454f6.AddNote
+NotesApp.AddNote;md5a76975f5ff68ad3578c90a53505454f6.AddNote
+notesapp.AddNote;md5a76975f5ff68ad3578c90a53505454f6.AddNote
+NotesApp.DataAdapter, NotesApp;md5a76975f5ff68ad3578c90a53505454f6.DataAdapter
+NotesApp.DataAdapter, NotesApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a76975f5ff68ad3578c90a53505454f6.DataAdapter
+NotesApp.DataAdapter;md5a76975f5ff68ad3578c90a53505454f6.DataAdapter
+notesapp.DataAdapter;md5a76975f5ff68ad3578c90a53505454f6.DataAdapter
+NotesApp.EditDeleteNote, NotesApp;md5a76975f5ff68ad3578c90a53505454f6.EditDeleteNote
+NotesApp.EditDeleteNote, NotesApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a76975f5ff68ad3578c90a53505454f6.EditDeleteNote
+NotesApp.EditDeleteNote;md5a76975f5ff68ad3578c90a53505454f6.EditDeleteNote
+notesapp.EditDeleteNote;md5a76975f5ff68ad3578c90a53505454f6.EditDeleteNote
+NotesApp.MainActivity, NotesApp;md5a76975f5ff68ad3578c90a53505454f6.MainActivity
+NotesApp.MainActivity, NotesApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a76975f5ff68ad3578c90a53505454f6.MainActivity
+NotesApp.MainActivity;md5a76975f5ff68ad3578c90a53505454f6.MainActivity
+notesapp.MainActivity;md5a76975f5ff68ad3578c90a53505454f6.MainActivity
+NotesApp.NotesAppSplash, NotesApp;md5a76975f5ff68ad3578c90a53505454f6.NotesAppSplash
+NotesApp.NotesAppSplash, NotesApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a76975f5ff68ad3578c90a53505454f6.NotesAppSplash
+NotesApp.NotesAppSplash;md5a76975f5ff68ad3578c90a53505454f6.NotesAppSplash
+notesapp.NotesAppSplash;md5a76975f5ff68ad3578c90a53505454f6.NotesAppSplash

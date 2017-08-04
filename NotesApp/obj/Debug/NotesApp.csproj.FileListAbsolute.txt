@@ -1,0 +1,155 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\bin\Debug\NotesApp.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\bin\Debug\NotesApp.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\bin\Debug\NotesApp.NotesApp.apk
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\bin\Debug\NotesApp.NotesApp-Signed.apk
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\obj\Debug\NotesApp.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\obj\Debug\NotesApp.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\obj\Debug\NotesApp.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\obj\Debug\android\bin\NotesApp.NotesApp.apk
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\obj\Debug\res\layout\main.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\obj\Debug\res\values\strings.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\icon.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\obj\Debug\R.cs.flag
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\obj\Debug\uploadflags.txt
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\obj\Debug\res\layout\actionbar.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\obj\Debug\res\values\themes.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\noteslogo64.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\delete64.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\edit64.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\save64.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\search64.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\notesicon.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\gradientbg.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\gradientbghover.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\arrowright64.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\obj\Debug\res\layout\notesrow.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\selectorpressed.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\selectorbackground.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\obj\Debug\res\layout\addnote.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\obj\Debug\NotesApp.dll.mdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Assessment 5\NotesApp\NotesApp\bin\Debug\NotesApp.dll.mdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\bin\Debug\NotesApp.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\bin\Debug\NotesApp.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\bin\Debug\NotesApp.NotesApp.apk
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\bin\Debug\NotesApp.NotesApp-Signed.apk
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\obj\Debug\NotesApp.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\obj\Debug\NotesApp.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\obj\Debug\NotesApp.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\obj\Debug\android\bin\NotesApp.NotesApp.apk
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\obj\Debug\res\layout\notesrow.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\obj\Debug\res\layout\addnote.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\obj\Debug\res\layout\main.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\obj\Debug\res\values\strings.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\selectorpressed.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\noteslogo64.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\delete64.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\edit64.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\save64.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\notesicon.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\selectorbackground.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\obj\Debug\R.cs.flag
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\obj\Debug\uploadflags.txt
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\obj\Debug\res\layout\editdeletenote.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\obj\Debug\res\layout\notesappsplash.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\notessplash.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\obj\Debug\NotesApp.dll.mdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AAA Redo Assessment 5\NotesApp\NotesApp\bin\Debug\NotesApp.dll.mdb
+S:\Software\Submissions\Alexandra Delport\Assessment 5\NotesApp\NotesApp\bin\Debug\NotesApp.dll
+S:\Software\Submissions\Alexandra Delport\Assessment 5\NotesApp\NotesApp\bin\Debug\NotesApp.pdb
+S:\Software\Submissions\Alexandra Delport\Assessment 5\NotesApp\NotesApp\bin\Debug\NotesApp.NotesApp.apk
+S:\Software\Submissions\Alexandra Delport\Assessment 5\NotesApp\NotesApp\bin\Debug\NotesApp.NotesApp-Signed.apk
+S:\Software\Submissions\Alexandra Delport\Assessment 5\NotesApp\NotesApp\obj\Debug\NotesApp.csprojResolveAssemblyReference.cache
+S:\Software\Submissions\Alexandra Delport\Assessment 5\NotesApp\NotesApp\obj\Debug\NotesApp.dll
+S:\Software\Submissions\Alexandra Delport\Assessment 5\NotesApp\NotesApp\obj\Debug\NotesApp.pdb
+S:\Software\Submissions\Alexandra Delport\Assessment 5\NotesApp\NotesApp\obj\Debug\android\bin\NotesApp.NotesApp.apk
+S:\Software\Submissions\Alexandra Delport\Assessment 5\NotesApp\NotesApp\obj\Debug\res\layout\notesrow.xml
+S:\Software\Submissions\Alexandra Delport\Assessment 5\NotesApp\NotesApp\obj\Debug\res\layout\addnote.xml
+S:\Software\Submissions\Alexandra Delport\Assessment 5\NotesApp\NotesApp\obj\Debug\res\layout\editdeletenote.xml
+S:\Software\Submissions\Alexandra Delport\Assessment 5\NotesApp\NotesApp\obj\Debug\res\layout\notesappsplash.xml
+S:\Software\Submissions\Alexandra Delport\Assessment 5\NotesApp\NotesApp\obj\Debug\res\layout\main.xml
+S:\Software\Submissions\Alexandra Delport\Assessment 5\NotesApp\NotesApp\obj\Debug\res\values\strings.xml
+S:\Software\Submissions\Alexandra Delport\Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\selectorpressed.xml
+S:\Software\Submissions\Alexandra Delport\Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\noteslogo64.png
+S:\Software\Submissions\Alexandra Delport\Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\delete64.png
+S:\Software\Submissions\Alexandra Delport\Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\edit64.png
+S:\Software\Submissions\Alexandra Delport\Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\save64.png
+S:\Software\Submissions\Alexandra Delport\Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\notesicon.png
+S:\Software\Submissions\Alexandra Delport\Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\selectorbackground.xml
+S:\Software\Submissions\Alexandra Delport\Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\notessplash.png
+S:\Software\Submissions\Alexandra Delport\Assessment 5\NotesApp\NotesApp\obj\Debug\R.cs.flag
+S:\Software\Submissions\Alexandra Delport\Assessment 5\NotesApp\NotesApp\obj\Debug\uploadflags.txt
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\bin\Debug\NotesApp.dll
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\bin\Debug\NotesApp.pdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\bin\Debug\NotesApp.NotesApp.apk
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\bin\Debug\NotesApp.NotesApp-Signed.apk
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\NotesApp.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\NotesApp.dll
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\NotesApp.pdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\android\bin\NotesApp.NotesApp.apk
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\res\layout\notesrow.xml
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\res\layout\addnote.xml
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\res\layout\editdeletenote.xml
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\res\layout\notesappsplash.xml
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\res\layout\main.xml
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\res\values\strings.xml
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\selectorpressed.xml
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\noteslogo64.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\delete64.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\edit64.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\save64.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\notesicon.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\selectorbackground.xml
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\res\drawable\notessplash.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\R.cs.flag
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\uploadflags.txt
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\bin\Debug\mscorlib.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\bin\Debug\NotesApp.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\bin\Debug\NotesApp.dllNotesApp.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\bin\Debug\System.Core.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\bin\Debug\System.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\bin\Debug\System.Xml.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\android\assets\NotesApp.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 5\NotesApp\NotesApp\obj\Debug\NotesApp.dll.mdb
+C:\Users\Alex\Documents\Software Development\Android Notes App\NotesApp\NotesApp\bin\Debug\NotesApp.dll
+C:\Users\Alex\Documents\Software Development\Android Notes App\NotesApp\NotesApp\bin\Debug\NotesApp.pdb
+C:\Users\Alex\Documents\Software Development\Android Notes App\NotesApp\NotesApp\bin\Debug\NotesApp.NotesApp.apk
+C:\Users\Alex\Documents\Software Development\Android Notes App\NotesApp\NotesApp\bin\Debug\NotesApp.NotesApp-Signed.apk
+C:\Users\Alex\Documents\Software Development\Android Notes App\NotesApp\NotesApp\obj\Debug\NotesApp.dll
+C:\Users\Alex\Documents\Software Development\Android Notes App\NotesApp\NotesApp\obj\Debug\NotesApp.pdb
+C:\Users\Alex\Documents\Software Development\Android Notes App\NotesApp\NotesApp\obj\Debug\android\bin\NotesApp.NotesApp.apk
+C:\Users\Alex\Documents\Software Development\Android Notes App\NotesApp\NotesApp\obj\Debug\res\layout\notesrow.xml
+C:\Users\Alex\Documents\Software Development\Android Notes App\NotesApp\NotesApp\obj\Debug\res\layout\addnote.xml
+C:\Users\Alex\Documents\Software Development\Android Notes App\NotesApp\NotesApp\obj\Debug\res\layout\editdeletenote.xml
+C:\Users\Alex\Documents\Software Development\Android Notes App\NotesApp\NotesApp\obj\Debug\res\layout\notesappsplash.xml
+C:\Users\Alex\Documents\Software Development\Android Notes App\NotesApp\NotesApp\obj\Debug\res\layout\main.xml
+C:\Users\Alex\Documents\Software Development\Android Notes App\NotesApp\NotesApp\obj\Debug\res\values\strings.xml
+C:\Users\Alex\Documents\Software Development\Android Notes App\NotesApp\NotesApp\obj\Debug\res\drawable\selectorpressed.xml
+C:\Users\Alex\Documents\Software Development\Android Notes App\NotesApp\NotesApp\obj\Debug\res\drawable\noteslogo64.png
+C:\Users\Alex\Documents\Software Development\Android Notes App\NotesApp\NotesApp\obj\Debug\res\drawable\delete64.png
+C:\Users\Alex\Documents\Software Development\Android Notes App\NotesApp\NotesApp\obj\Debug\res\drawable\edit64.png
+C:\Users\Alex\Documents\Software Development\Android Notes App\NotesApp\NotesApp\obj\Debug\res\drawable\save64.png
+C:\Users\Alex\Documents\Software Development\Android Notes App\NotesApp\NotesApp\obj\Debug\res\drawable\notesicon.png
+C:\Users\Alex\Documents\Software Development\Android Notes App\NotesApp\NotesApp\obj\Debug\res\drawable\selectorbackground.xml
+C:\Users\Alex\Documents\Software Development\Android Notes App\NotesApp\NotesApp\obj\Debug\res\drawable\notessplash.png
+C:\Users\Alex\Documents\Software Development\Android Notes App\NotesApp\NotesApp\obj\Debug\R.cs.flag
+C:\Users\Alex\Documents\Software Development\Android Notes App\NotesApp\NotesApp\obj\Debug\uploadflags.txt
+C:\Users\Alex\Documents\Software Development\Android Notes App\NotesApp\NotesApp\bin\Debug\NotesApp.dll.mdb
+C:\Users\Alex\Documents\Software Development\Android Notes App\NotesApp\NotesApp\obj\Debug\android\assets\NotesApp.dll.mdb
